@@ -1,2 +1,2 @@
 # Data-Structure-implementation
-This repo for building Data Structure from scratch
+Repo to conation the  Data Structure implemenation Established from the scratch
