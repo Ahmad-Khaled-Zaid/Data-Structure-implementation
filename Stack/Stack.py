@@ -1,3 +1,7 @@
+"""
+Stack will follow LIFO rule (Last in first out)
+"""
+
 class Stack:
     stack_list = []
 
